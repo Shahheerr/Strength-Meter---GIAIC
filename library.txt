@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Maa ki chut",
+        "author": "rana Shaheer",
+        "year": 2020,
+        "genre": "funny",
+        "read": true
+    }
+]
